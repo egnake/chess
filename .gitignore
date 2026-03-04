@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Stockfish (Büyük exe dosyalarını GitHub'a atmıyoruz)
+stockfish*.exe
+*.exe
+
+# Venv
+venv/
+env/
