@@ -31,11 +31,12 @@
 
 ## 📸 Ekran Görüntüleri
 
-> Ekran görüntüleri eklemek için `screenshots/` klasörüne resim koyup aşağıya referans verebilirsiniz:
 >
 > ```md
-> ![Ana Menü](screenshots/menu.png)
-> ![Oyun Ekranı](screenshots/game.png)
+> <img width="1257" height="901" alt="1" src="https://github.com/user-attachments/assets/251c314a-f022-401c-97bd-1eb3e3a69746" />
+
+> <img width="1275" height="898" alt="2" src="https://github.com/user-attachments/assets/fc823d2d-f713-4c9a-a3fa-7626dd136430" />
+
 > ```
 
 ## 🚀 Kurulum
